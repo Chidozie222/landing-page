@@ -1,0 +1,122 @@
+/*header section*/
+header{
+  margin: 0px;
+}
+#headlogo{
+font-weight: 34px;
+font-size: 29px;
+font-family: 'Times New Roman', Times, serif;
+color: white;
+float: left;
+}
+.btn{
+float: right;
+margin: 8px;
+}
+#btn1{
+  background-color: black;
+  color: white;
+  border-color: white;
+  width: 83px;
+  border-radius: 14px;
+}
+#btn2{
+  background-color: black;
+  color: white;
+  border-color: white;
+  width: 83px;
+  border-radius: 14px;
+}
+header {
+background-color: black;
+color: white;
+height: 39px;
+width: 100%;
+}
+/*upper body section*/
+.body1{
+  background-image: url(food.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 192px;
+  width: 100%;
+  text-align: center;
+  margin: 0px;
+}
+#logo{
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300px;
+  margin-bottom: 10px;
+  margin-top: 3px;
+  display: inline-block;
+  background-color: white;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+#text{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  margin: 8px;
+}
+.input{
+  margin-top: 2px;
+}
+#input1{
+   height: 28px;
+   width: 200px;
+   background-color: white;
+   color: black;
+   
+}
+/*lower body section*/
+.block1{
+  display: inline-block;
+  height: 120px;
+  width: 270px;
+  margin-right: 44px;
+  margin-top: 17px;
+  margin-left: 10px;
+  border: 1px black solid;
+  box-shadow: 16px 18px black;
+  padding-top: 10px;
+}
+.inline{
+  margin: 5px;
+}
+#img{
+  height: 100px;
+  width: 100px;
+  float: left;
+}
+#header{
+  margin: 0px;
+  margin-top: 12px;
+}
+#text1{
+  font-size: 12px
+}
+
+
+/*sub-footer and footer section*/
+.sub-footer{
+  margin-top: 24px;
+  background-color: black;
+  color: white;
+  font-size: 27px;
+  height: 57px;
+  text-align: center;
+}
+#word{
+  margin: 59px 59px; 
+}
+footer{
+  text-align: center;
+}
+#first-link{
+  height: 100px;
+  width: 100px;
+}
